@@ -1,0 +1,5 @@
+C:\Users\seani\OneDrive\Repos\Simple-Face-Recognation-App\Verilook-Sample-App\obj\Debug\Verilook-Sample-App.csproj.AssemblyReference.cache
+C:\Users\seani\OneDrive\Repos\Simple-Face-Recognation-App\Verilook-Sample-App\obj\Debug\Verilook_Sample_App.Properties.Resources.resources
+C:\Users\seani\OneDrive\Repos\Simple-Face-Recognation-App\Verilook-Sample-App\obj\Debug\Verilook_Sample_App.MainView.resources
+C:\Users\seani\OneDrive\Repos\Simple-Face-Recognation-App\Verilook-Sample-App\obj\Debug\Verilook-Sample-App.csproj.GenerateResource.cache
+C:\Users\seani\OneDrive\Repos\Simple-Face-Recognation-App\Verilook-Sample-App\obj\Debug\Verilook-Sample-App.csproj.CoreCompileInputs.cache
