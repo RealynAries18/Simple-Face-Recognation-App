@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Verilook_Sample_App.Model
+namespace Verilook_Sample_App.Models
 {
     public class FaceProfile
     {

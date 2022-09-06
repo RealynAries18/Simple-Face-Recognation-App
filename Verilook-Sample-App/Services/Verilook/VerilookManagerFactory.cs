@@ -27,14 +27,15 @@ namespace Verilook_Sample_App.Services
         {
             LicenseSetup();
 
-            NBiometricClient client = new NBiometricClient()
+            NBiometricClient faceClient = new NBiometricClient()
             {
                 BiometricTypes = NBiometricType.Face,
                 UseDeviceManager = true,
+                FacesTemplateSize = NTemplateSize.Small
             };
 
 
-            return new VerilookManager(client, _faceView, captureOptions);
+            return new VerilookManager(faceClient, _faceView, captureOptions);
         }
 
 

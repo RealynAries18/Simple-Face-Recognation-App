@@ -6,21 +6,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Verilook_Sample_App.Model;
+using Verilook_Sample_App.Models;
 
 namespace Verilook_Sample_App.Services
 {
     public class VerilookManager : IVerilookManager
     {
-        private NBiometricClient _client { get; set; }
+        private NBiometricClient _faceClient { get; set; }
         private NFaceView _faceView { get; set; }
 
         private NBiometricCaptureOptions _captureOptions { get; set; }
 
 
-        public VerilookManager(NBiometricClient client, NFaceView faceView, NBiometricCaptureOptions captureOptions)
+        public VerilookManager(NBiometricClient faceClient, NFaceView faceView, NBiometricCaptureOptions captureOptions)
         {
-            _client = client;
+            _faceClient = faceClient;
             _faceView = faceView;
             _captureOptions = captureOptions;
         }
@@ -32,7 +32,7 @@ namespace Verilook_Sample_App.Services
 
             _faceView.Face = newFaceSubject.Faces.Last();
 
-            NBiometricStatus status = await _client.CaptureAsync(newFaceSubject);
+            NBiometricStatus status = await _faceClient.CaptureAsync(newFaceSubject);
             if (status == NBiometricStatus.Ok)
             {
                 return newFaceSubject;
