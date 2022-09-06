@@ -1,0 +1,62 @@
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Simple Face Recognation App.exe.config
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Simple Face Recognation App.exe
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Simple Face Recognation App.pdb
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Emgu.CV.UI.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Emgu.CV.World.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\OpenTK.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\OpenTK.GLControl.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\ZedGraph.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Emgu.CV.UI.xml
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Emgu.CV.World.xml
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\OpenTK.xml
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\OpenTK.GLControl.xml
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\ZedGraph.xml
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\obj\Debug\Simple Face Recognation App.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\obj\Debug\Simple_Face_Recognation_App.Form1.resources
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\obj\Debug\Simple_Face_Recognation_App.Properties.Resources.resources
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\obj\Debug\Simple Face Recognation App.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\obj\Debug\Simple Face Recognation App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\obj\Debug\Simple Face Recognation App.csproj.CopyComplete
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\obj\Debug\Simple Face Recognation App.exe
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\obj\Debug\Simple Face Recognation App.pdb
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Neurotec.Accelerator.Admin.Rest.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Neurotec.Biometrics.Client.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Neurotec.Biometrics.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Neurotec.Biometrics.Gui.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Neurotec.Devices.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Neurotec.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Neurotec.Licensing.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Neurotec.Media.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Neurotec.Media.Processing.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\ZstdNet.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\System.Security.Permissions.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\Neurotec.Gui.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\System.Windows.Extensions.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\Simple Face Recognation App\Simple Face Recognation App\obj\Debug\Simple Face Recognation App.exe.config
